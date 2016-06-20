@@ -1,8 +1,8 @@
 # Forked from [react-starter-kit](https://github.com/kriasoft/react-starter-kit) as I want to do the following:
 
-- [X] Change Jade for Handlebars
-- [X] Build to static HTML files by default
-- [X] Add react-bootstrap
+- Build to static HTML files by default
+- Change Jade for Handlebars
+- Add react-bootstrap
 
 Original README follows...
 
