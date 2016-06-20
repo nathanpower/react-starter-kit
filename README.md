@@ -1,8 +1,8 @@
-# Forked from [react-starter-kit](https://github.com/kriasoft/react-starter-kit) as I wanted to do the following:
+# Forked from [react-starter-kit](https://github.com/kriasoft/react-starter-kit) as I want to do the following:
 
-- Change Jade for Handlebars
-- Build to static HTML files by default
-- Add react-bootstrap
+- [X] Change Jade for Handlebars
+- [X] Build to static HTML files by default
+- [X] Add react-bootstrap
 
 Original README follows...
 
