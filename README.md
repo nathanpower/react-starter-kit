@@ -1,3 +1,11 @@
+# Forked from [react-starter-kit](https://github.com/kriasoft/react-starter-kit) as I wanted to do the following:
+
+- Change Jade for Handlebars
+- Build to static HTML files by default
+- Add react-bootstrap
+
+Original README follows...
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
